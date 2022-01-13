@@ -1,0 +1,16 @@
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\udulo\Documents\Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache

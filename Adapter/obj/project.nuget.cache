@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/CtD7imALIbYQDsbh/s63pRq9qnIJTEKaiK9fDs2AwE+dh0b6VjzRS3ocenCN2dYcjwknQI/AQtgcPSTECD6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\udulo\\Documents\\Patterns\\Adapter\\Adapter\\Adapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\udulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
